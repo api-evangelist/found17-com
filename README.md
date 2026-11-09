@@ -1,4 +1,4 @@
-# found17-com
+# Found17
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,119 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-found17-com is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://found17.com/
+Found17 provides public‑web tools that turn webpages into structured, auditable work. It offers deterministic checks, evidence‑over‑assertion analysis, and safe agent‑driven extraction for auditing, comparison and verification of online content.
+
+**Areas:** website audit · product comparison · claim check · public web tools · agents · REST API · MCP · structured results
+
+## Found17 on APIs.io
+
+Everything profiled for Found17 is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/found17-com/](https://apis.io/providers/found17-com/)** — or go straight to one of the APIs or properties below.
+
+### APIs (10)
+
+- [Found17 Compare Products API](https://apis.io/apis/found17-com/found17-com-compare-products-api/) — The Compare Products API from Found17 — 1 operation(s) for compare products.
+- [Found17 Health API](https://apis.io/apis/found17-com/found17-com-health-api/) — The Health API from Found17 — 1 operation(s) for health.
+- [Found17 Quote API](https://apis.io/apis/found17-com/found17-com-quote-api/) — The Quote API from Found17 — 1 operation(s) for quote.
+- [Found17 Services API](https://apis.io/apis/found17-com/found17-com-services-api/) — The Services API from Found17 — 1 operation(s) for services.
+- [Found17 Source Snapshot API](https://apis.io/apis/found17-com/found17-com-source-snapshot-api/) — The Source Snapshot API from Found17 — 1 operation(s) for source snapshot.
+- [Found17 Source Watches API](https://apis.io/apis/found17-com/found17-com-source-watches-api/) — The Source Watches API from Found17 — 3 operation(s) for source watches.
+- [Found17 Verify Claim API](https://apis.io/apis/found17-com/found17-com-verify-claim-api/) — The Verify Claim API from Found17 — 1 operation(s) for verify claim.
+- [Found17 Web Qa API](https://apis.io/apis/found17-com/found17-com-web-qa-api/) — The Web Qa API from Found17 — 1 operation(s) for web qa.
+- [Found17 Web To Product API](https://apis.io/apis/found17-com/found17-com-web-to-product-api/) — The Web To Product API from Found17 — 1 operation(s) for web to product.
+- [Found17 Website Audit API](https://apis.io/apis/found17-com/found17-com-website-audit-api/) — The Website Audit API from Found17 — 1 operation(s) for website audit.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [Found17 Com Agentic Access](https://apis.io/agentic-access/found17-com/found17-com-agentic-access/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [Found17 API Rules](https://apis.io/rules/found17-com/found17-com-rules/)
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Found17 Com Authentication](https://apis.io/security/found17-com/found17-com-authentication/)
+- [Found17 Com Domain Security](https://apis.io/security/found17-com/found17-com-domain-security/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Found17 Com Plans Pricing](https://apis.io/plans/found17-com/found17-com-plans-pricing/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://found17.com/)
+- [Documentation](https://found17.com/docs)
+- [API reference](https://found17.com/openapi.json)
+- [Pricing](https://found17.com/pricing)
+- [Terms of service](https://found17.com/terms)
+- [Privacy policy](https://found17.com/privacy)
+
+## API Evangelist rating
+
+**Kin Score 44.3** — developing · rubric 0.27.0 · scored 2026-11-09
+
+| Facet | Score |
+|---|---|
+| Discoverability | 62.5 |
+| Contract quality | 41.5 |
+| Contract governance | 65.5 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 35.0 |
+| Access clarity | 60.0 |
+
+**Agent readiness 30.5** — agent-ready
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | bearer (partial credit) |
+| Idempotency | — |
+| Error Semantics | derived (partial credit) |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | unknown |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | distinct |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 21.9** — Insurance
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/found17-com/](https://apis.io/providers/found17-com/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Found17: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/found17-com/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
